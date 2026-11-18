@@ -1,6 +1,6 @@
 # AWS--Cloudwatch--Monitoring--lab
 Creating An AWS CloudWatch Monitoring and Alerting.
-#Project Obective
+#Project Objective
  To learn how to monitor AWS resources , identify performance problems and configure alerts when a werver experiences abnornal activity.
 
  #Tools and services used.
